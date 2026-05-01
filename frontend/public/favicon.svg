@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Circle ring — open at upper-right where arrow exits -->
+  <path
+    d="M 153 47 A 75 75 0 1 0 47 153"
+    stroke="#4f46e5"
+    stroke-width="16"
+    stroke-linecap="round"
+    fill="none"
+  />
+  <!-- Arrow shaft -->
+  <line
+    x1="38" y1="162" x2="150" y2="50"
+    stroke="#4f46e5"
+    stroke-width="16"
+    stroke-linecap="round"
+  />
+  <!-- Arrowhead -->
+  <polygon points="162,38 138,52 148,72" fill="#4f46e5" />
+</svg>
