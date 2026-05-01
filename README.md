@@ -218,4 +218,4 @@ When adding `FIREBASE_PRIVATE_KEY` as a Railway environment variable:
 
 ## 📄 License
 
-MIT © 2024 Saarthi
+MIT © 2026 Saarthi
