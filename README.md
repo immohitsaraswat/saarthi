@@ -76,7 +76,7 @@ saarthi/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/saarthi.git
+git clone https://github.com/immohitsaraswat/saarthi.git
 cd saarthi
 
 # Install backend deps
