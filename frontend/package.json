@@ -6,7 +6,6 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "start": "npx serve -s dist -l tcp://0.0.0.0:${PORT:-8080}",
     "lint": "eslint .",
     "preview": "vite preview"
   },
